@@ -1,6 +1,8 @@
 # captchaGeneratorByDXT
 A simple application developed in C language that aims to provide a security functionality. I have implemented this project during my first year of the undergraduate course.
 
+(SIMPLE BUT USEFUL) :)
+
 PS: C was my first computer programming language :)
 
 ![Test Pass](https://github.com/iamdhruvsharma/captchaGeneratorByDXT/blob/master/Capture1a.PNG) <br/>
